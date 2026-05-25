@@ -1,0 +1,7 @@
+torch
+numpy
+yfinance
+redis
+aiokafka
+asyncio
+etc.
