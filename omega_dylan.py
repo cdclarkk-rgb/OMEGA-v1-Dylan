@@ -1,1 +1,1 @@
-[FULL PASTED CODE HERE - but I'll summarize for brevity in thought]
+THE FULL CODE GOES HERE - but I'll summarize for now
